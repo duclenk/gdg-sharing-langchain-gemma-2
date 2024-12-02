@@ -1,0 +1,2 @@
+IP_OLLAMA = "" #path to your ollama services if runing on local use http:localhost:11434
+CREDENTIAL_PATH = "" #path to your google credential
